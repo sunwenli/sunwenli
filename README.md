@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning `how to learn`
 - 📫 How to reach me: [sunwenli0394@63.com](https://email.163.com/)
 
+![Sunwenli's github stats](https://github-readme-stats.vercel.app/api?username=sunwenli&show_icons=true&theme=radical)
+
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
